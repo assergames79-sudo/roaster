@@ -1,0 +1,13 @@
+{
+  "project": "Roaster",
+  "platform": "ios",
+  "github": {
+    "owner": "assergames79-sudo",
+    "repo": "roaster"
+  },
+  "ios": {
+    "path": "ios",
+    "scheme": "",
+    "signing": false
+  }
+}

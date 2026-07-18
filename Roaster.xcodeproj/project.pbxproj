@@ -332,3 +332,4 @@
 	};
 	rootObject = A1B2C3D4E5F60013 /* Project object */;
 }
+"CODE_SIGNING_ALLOWED = NO" 

@@ -5,11 +5,10 @@
     "owner": "assergames79-sudo",
     "repo": "roaster"
   },
-  "ios": {
-    "path": "",
-    "scheme": "Roaster",
-    "signing": false,
-    "codeSignIdentity": "Apple Development",
-    "adhoc": false
-  }
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
 }

@@ -6,7 +6,7 @@
     "repo": "roaster"
   },
   "ios": {
-    "path": "ios",
+    "path": "",
     "scheme": "Roaster",
     "signing": false,
     "codeSignIdentity": "Apple Development",
